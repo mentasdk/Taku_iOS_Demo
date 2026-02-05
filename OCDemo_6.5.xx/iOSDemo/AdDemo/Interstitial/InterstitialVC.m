@@ -23,7 +23,7 @@
 @implementation InterstitialVC
  
 //广告位ID
-#define InterstitialPlacementID @"b680a1e0ae7a43"
+#define InterstitialPlacementID @"b661e4ab4be913"
 
 // Custom adapter test ID
 //#define InterstitialPlacementID @"b687f2ede7838d"

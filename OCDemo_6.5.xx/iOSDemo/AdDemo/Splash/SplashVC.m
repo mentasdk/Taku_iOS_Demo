@@ -23,7 +23,7 @@
 @implementation SplashVC
 
 //广告位ID
-#define SplashPlacementID @"b67f4ab43d2fe1"
+#define SplashPlacementID @"b1fh1t2hri6ojr"
 
 //场景ID，可选，可在后台生成。没有可传入空字符串
 #define SplashSceneID @""

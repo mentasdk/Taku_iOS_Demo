@@ -18,7 +18,7 @@
 @implementation RewardedVC
 
 //广告位ID
-#define RewardedPlacementID @"b67f4ab93eb3a7"
+#define RewardedPlacementID @"b661cdd7465fc5"
  
 // Custom adapter test ID
 //#define RewardedPlacementID @"b687f26e050de2"

@@ -25,7 +25,7 @@
 @implementation SelfRenderVC
 
 //广告位ID
-#define Native_SelfRender_PlacementID @"b680af2c216f73"
+#define Native_SelfRender_PlacementID @"b66e0137068752"
 
 // Custom adapter test ID
 //#define Native_SelfRender_PlacementID @"b687f59e8358d0"

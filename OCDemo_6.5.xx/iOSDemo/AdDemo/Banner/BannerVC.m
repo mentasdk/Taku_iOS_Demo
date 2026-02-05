@@ -19,7 +19,7 @@
 @implementation BannerVC
 
 //广告位ID
-#define BannerPlacementID @"b680a1e7874fce"
+#define BannerPlacementID @"b661e1a6a35ba9"
 
 // Custom adapter test ID
 //#define BannerPlacementID @"b687f2eed9d370"
@@ -28,7 +28,7 @@
 #define BannerSceneID @""
 
 //请注意，banner size需要和后台配置的比例一致
-#define BannerSize CGSizeMake(320, 50)
+#define BannerSize CGSizeMake(320, 100)
 
 #pragma mark - Load Ad 加载广告
 /// 加载广告 

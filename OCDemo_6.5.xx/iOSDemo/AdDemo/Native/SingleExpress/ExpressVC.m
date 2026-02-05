@@ -25,7 +25,7 @@
 //广告位ID
 
 //模版渲染的广告位
-#define Native_Express_PlacementID @"b680af46e13e5c"
+#define Native_Express_PlacementID @"b6618d67879ca6"
 
 // Custom adapter test ID
 //#define Native_Express_PlacementID @"b687f2efd5d11c"

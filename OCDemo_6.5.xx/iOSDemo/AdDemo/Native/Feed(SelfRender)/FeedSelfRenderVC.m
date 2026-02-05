@@ -24,7 +24,7 @@
 @implementation FeedSelfRenderVC
 
 //广告位ID
-#define Feed_Native_SelfRender_PlacementID @"b67fdd0d08be70"
+#define Feed_Native_SelfRender_PlacementID @"b66e0137068752"
 
 //场景ID，可选，可在后台生成。没有可传入空字符串
 #define Feed_Native_SelfRender_SceneID @""

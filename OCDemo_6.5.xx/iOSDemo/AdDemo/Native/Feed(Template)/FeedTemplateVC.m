@@ -28,7 +28,7 @@
 @implementation FeedTemplateVC
 
 //广告位ID
-#define Feed_Native_Express_PlacementID @"b680af4b2bb0a9"
+#define Feed_Native_Express_PlacementID @"b6618d67879ca6"
 
 //场景ID，可选，可在后台生成。没有可传入空字符串
 #define Feed_Native_Express_SceneID @""
