@@ -17,7 +17,7 @@ target 'iOSDemo' do
   use_frameworks!
   
   # 国内Taku
-  pod 'ATMentaCNAdapter', :path => './ATMentaCNAdapter.podspec'
+  pod 'ATMentaCNAdapter', :path => './../ATMentaCNAdapter.podspec'
   
   # 示例
   pod 'AnyThinkiOS','6.5.34'
