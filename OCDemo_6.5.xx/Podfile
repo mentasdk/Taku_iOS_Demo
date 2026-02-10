@@ -20,7 +20,7 @@ target 'iOSDemo' do
   pod 'ATMentaCNAdapter', :path => './../ATMentaCNAdapter.podspec'
   
   # 示例
-  pod 'AnyThinkiOS','6.5.34'
+  pod 'AnyThinkiOS'
   pod 'AnyThinkMediationMSAdapter','2.7.13.0.0'
   pod 'AnyThinkDebugUISDK'
   
