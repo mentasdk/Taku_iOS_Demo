@@ -19,6 +19,9 @@ target 'iOSDemo' do
   # 国内Taku
   pod 'ATMentaCNAdapter', :path => './../ATMentaCNAdapter.podspec'
   
+  # 海外Taku
+  pod 'ATMentaOverseasAdapter', :path => './../ATMentaOverseasAdapter.podspec'
+  
   # 示例
   pod 'AnyThinkiOS'
   pod 'AnyThinkMediationMSAdapter','2.7.13.0.0'
