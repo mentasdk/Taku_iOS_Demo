@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name             = 'ATMentaCNAdapter'
-    s.version          = '7.01.01'
+    s.version          = '7.01.03'
     s.summary          = 'ATMentaCNAdapter.'
     s.description      = 'This is the ATMentaCNAdapter. Please proceed to https://www.mentamob.com for more information.'
     s.homepage         = 'https://www.mentamob.com/'
@@ -17,10 +17,10 @@ Pod::Spec.new do |s|
     s.source_files = 'ATMentaCNAdapter/**/*'
     s.swift_versions = ['5.0']
 
-    s.dependency 'MentaVlionBaseSDK', '~> 7.00.17'
-    s.dependency 'MentaUnifiedSDK',   '~> 7.00.17'
-    s.dependency 'MentaVlionSDK',     '~> 7.00.17'
-    s.dependency 'MentaVlionAdapter', '~> 7.00.17'
+    s.dependency 'MentaVlionBaseSDK', '~> 7.00.19'
+    s.dependency 'MentaUnifiedSDK',   '~> 7.00.19'
+    s.dependency 'MentaVlionSDK',     '~> 7.00.19'
+    s.dependency 'MentaVlionAdapter', '~> 7.00.19'
     s.dependency 'AnyThinkiOS'
     s.dependency 'AnyThinkMediationAdxSmartdigimktCNAdapter'
   

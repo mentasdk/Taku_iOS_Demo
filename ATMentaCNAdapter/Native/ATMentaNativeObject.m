@@ -45,7 +45,7 @@
 - (void)slefRenderRenderClickableViews:(NSArray<UIView *> *)clickableViews withContainer:(UIView *)container registerArgument:(ATNativeRegisterArgument *)registerArgument {
     if (self.feedAdMetaad) {
         [self.feedAdMetaad registerClickableViews:clickableViews
-                                   closeableViews:@[registerArgument.dislikeButton]];
+                                   closeableViews:(registerArgument.dislikeButton ? @[registerArgument.dislikeButton] : nil)];
         
         
         UIView *adView = self.feedAdMetaad.nativeAdView;

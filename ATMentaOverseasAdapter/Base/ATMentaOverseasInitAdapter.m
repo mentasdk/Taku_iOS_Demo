@@ -39,7 +39,7 @@
 }
 
 - (nullable NSString *)adapterVersion {
-    return @"7.01.02";
+    return @"7.01.03";
 }
 
 @end
