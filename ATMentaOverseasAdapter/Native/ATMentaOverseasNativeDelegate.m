@@ -93,6 +93,7 @@
         nativeObject.rating = 0;
         nativeObject.appPrice = 0;
         nativeObject.iconUrl = obj.iconURL;
+        nativeObject.imageUrl = obj.materialURL;
         
         if (obj.materialURL) {
             NSMutableArray *imageList = [NSMutableArray arrayWithCapacity:1];
