@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name             = 'ATMentaCNAdapter'
-    s.version          = '7.01.04'
+    s.version          = '7.01.05'
     s.summary          = 'ATMentaCNAdapter.'
     s.description      = 'This is the ATMentaCNAdapter. Please proceed to https://www.mentamob.com for more information.'
     s.homepage         = 'https://www.mentamob.com/'
