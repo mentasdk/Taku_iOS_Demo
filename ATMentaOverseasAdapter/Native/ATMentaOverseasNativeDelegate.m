@@ -94,6 +94,8 @@
         nativeObject.appPrice = 0;
         nativeObject.iconUrl = obj.iconURL;
         nativeObject.imageUrl = obj.materialURL;
+        nativeObject.logo = obj.adLogo.logoImg;
+        nativeObject.logoView = obj.adLogo;
         
         if (obj.materialURL) {
             NSMutableArray *imageList = [NSMutableArray arrayWithCapacity:1];

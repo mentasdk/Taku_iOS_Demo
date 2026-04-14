@@ -204,6 +204,7 @@
         nativeObject.appPrice = 0;
         nativeObject.videoDuration = ad.videoDuration;
         nativeObject.iconUrl = ad.iconUrl;
+        nativeObject.logo = ad.adIcon;
         
         if (ad.materialList && ad.materialList.count) {
             MentaNativeAdMaterialObject *material = ad.materialList.firstObject;
